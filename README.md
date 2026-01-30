@@ -1,2 +1,5 @@
 # rubailunar
 The Jahangirian Rubai Lunar ZeroMatics (JRLZ) framework proposes a radical restructuring of mathematics by asserting that geometry is prior to logic. 
+By prioritizing spatial intuition over symbolic manipulation, the text argues that classical logical paradoxes, such as Russell’s Paradox and Gödel’s Incompleteness, can be resolved through angular reinterpretation and spiral ascent. The system is built upon the Rubai axioms and Lunar postulates, which replace binary truth with a continuous phase logic where self-reference is modeled as geometric rotation. Central to this framework is ZeroMatics, a base-12 arithmetic system derived from the natural 12-fold division of a circle. The author connects these geometric foundations to physical phenomena, suggesting a link between the golden angle and the fine-structure constant. Ultimately, the work seeks to unify mathematics, physics, and consciousness into a single, undivided unity verified through formal logic in Lean 4.
+
+10.5281/zenodo.18423848
